@@ -19,7 +19,6 @@ class Solution {
         stack<Node*> st;
         Node* node = root;
         vector<int> inorder;
-        
         while(true)
         {
             if(node!=NULL)
@@ -29,10 +28,7 @@ class Solution {
             }
             else
             {
-                if(st.empty() == true)
-                {
-                    break;
-                }
+                if(st.empty() == true) break;
                 node = st.top();
                 st.pop();
                 inorder.push_back(node->data);
