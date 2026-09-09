@@ -37,8 +37,8 @@ public:
                 nodesQueue.push(node->right);
             }
         }
-            result.push_back(row);
             leftToRight = !leftToRight;
+            result.push_back(row);
         }
         return result;
     }
