@@ -24,7 +24,6 @@ class Solution {
 
         paths(node->left,ans,str);
         paths(node->right,ans,str);
-        return;
         }
 public:
     vector<string> binaryTreePaths(TreeNode* node) {
