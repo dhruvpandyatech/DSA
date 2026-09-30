@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dhruvpandyatech/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruvpandyatech/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/dhruvpandyatech/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhruvpandyatech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dhruvpandyatech/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dhruvpandyatech/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/dhruvpandyatech/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhruvpandyatech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dhruvpandyatech/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/dhruvpandyatech/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
