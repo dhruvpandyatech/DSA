@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [4024-nearest-available-drone](https://github.com/dhruvpandyatech/DSA/tree/master/4024-nearest-available-drone) |
 ## Enumeration
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/dhruvpandyatech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/dhruvpandyatech/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/dhruvpandyatech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/dhruvpandyatech/DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dhruvpandyatech/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,4 +165,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhruvpandyatech/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
