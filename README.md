@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/dhruvpandyatech/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -171,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhruvpandyatech/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/dhruvpandyatech/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dhruvpandyatech/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -192,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvpandyatech/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/dhruvpandyatech/DSA/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
