@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvpandyatech/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [4024-nearest-available-drone](https://github.com/dhruvpandyatech/DSA/tree/master/4024-nearest-available-drone) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
 ## Ternary Search
 |  |
 | ------- |
