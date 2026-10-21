@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruvpandyatech/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvpandyatech/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/dhruvpandyatech/DSA/tree/master/0905-sort-array-by-parity) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [4024-nearest-available-drone](https://github.com/dhruvpandyatech/DSA/tree/master/4024-nearest-available-drone) |
 ## Enumeration
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruvpandyatech/DSA/tree/master/0169-majority-element) |
+| [0905-sort-array-by-parity](https://github.com/dhruvpandyatech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvpandyatech/DSA/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/dhruvpandyatech/DSA/tree/master/0905-sort-array-by-parity) |
 ## Ternary Search
 |  |
 | ------- |
