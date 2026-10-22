@@ -16,7 +16,7 @@ public:
             int rc = INT_MAX;
             for(int j = 0;j<n;j++){
                 up = dp[i-1][j];
-               if(j>0) lc = dp[i-1][j-1];
+               if(j-1>=0) lc = dp[i-1][j-1];
                if(j+1<n) rc = dp[i-1][j+1];
                 dp[i][j] = matrix[i][j] + min(up,min(lc,rc));
             }
