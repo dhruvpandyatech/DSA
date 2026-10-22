@@ -15,7 +15,6 @@ public:
         for(int j = 0;j<m;j++){
             dp[i][j] = triangle[i][j];
         }
-
         return fn(0,0,m-1,triangle,dp);
     }
 };
