@@ -11,6 +11,7 @@ public:
                 if(visited[i][j-1]){
                     ans.push_back(i);
                     ans.push_back(j);
+                    return ans;
                 }
                 solve(i,j-1,grid,visited,ans);
                 }
@@ -27,6 +28,7 @@ public:
                 if(visited[i][j+1]){
                     ans.push_back(i);
                     ans.push_back(j);
+                    return ans;
                 }
                 solve(i,j+1,grid,visited,ans);
                 }
@@ -44,6 +46,7 @@ public:
                 if(visited[i-1][j]){
                     ans.push_back(i);
                     ans.push_back(j);
+                    return ans;
                 }
                 solve(i-1,j,grid,visited,ans);
                 }
@@ -60,6 +63,7 @@ public:
                 if(visited[i+1][j]){
                     ans.push_back(i);
                     ans.push_back(j);
+                    return ans;
                 }
                 solve(i+1,j,grid,visited,ans);
                 }
