@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/dhruvpandyatech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruvpandyatech/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1463-cherry-pickup-ii](https://github.com/dhruvpandyatech/DSA/tree/master/1463-cherry-pickup-ii) |
 | [4024-nearest-available-drone](https://github.com/dhruvpandyatech/DSA/tree/master/4024-nearest-available-drone) |
 ## Enumeration
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dhruvpandyatech/DSA/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/dhruvpandyatech/DSA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/dhruvpandyatech/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -248,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/dhruvpandyatech/DSA/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
