@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dhruvpandyatech/DSA/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/dhruvpandyatech/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvpandyatech/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dhruvpandyatech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruvpandyatech/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/dhruvpandyatech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/dhruvpandyatech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dhruvpandyatech/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/dhruvpandyatech/DSA/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/dhruvpandyatech/DSA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dhruvpandyatech/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -251,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dhruvpandyatech/DSA/tree/master/1463-cherry-pickup-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
