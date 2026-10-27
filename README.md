@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dhruvpandyatech/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhruvpandyatech/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/dhruvpandyatech/DSA/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/dhruvpandyatech/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dhruvpandyatech/DSA/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/dhruvpandyatech/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/dhruvpandyatech/DSA/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/dhruvpandyatech/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -258,8 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
