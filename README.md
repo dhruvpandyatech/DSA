@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dhruvpandyatech/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0516-longest-palindromic-subsequence](https://github.com/dhruvpandyatech/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvpandyatech/DSA/tree/master/1143-longest-common-subsequence) |
 ## Binary Search Tree
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/dhruvpandyatech/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/dhruvpandyatech/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/dhruvpandyatech/DSA/tree/master/1143-longest-common-subsequence) |
