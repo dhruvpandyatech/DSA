@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruvpandyatech/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/dhruvpandyatech/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvpandyatech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/dhruvpandyatech/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/dhruvpandyatech/DSA/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/dhruvpandyatech/DSA/tree/master/0283-move-zeroes) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/dhruvpandyatech/DSA/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/dhruvpandyatech/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhruvpandyatech/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/dhruvpandyatech/DSA/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/dhruvpandyatech/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/dhruvpandyatech/DSA/tree/master/0494-target-sum) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/dhruvpandyatech/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvpandyatech/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvpandyatech/DSA/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruvpandyatech/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
